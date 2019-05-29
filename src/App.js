@@ -54,7 +54,7 @@ function App() {
       isCompleted: false
     },
     {
-      text: "Finish website",
+      text: "Finish this",
       isCompleted: false
     }
   ]);
