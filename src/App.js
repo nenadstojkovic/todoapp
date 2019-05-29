@@ -55,7 +55,7 @@ function App() {
     },
     {
       text: "Finish website",
-      isCompleted: true
+      isCompleted: false
     }
   ]);
 
