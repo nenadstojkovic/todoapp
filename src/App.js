@@ -42,20 +42,20 @@ function TodoForm({ addTodo }) {
 function App() {
   const [todos, setTodos] = useState([
     {
-      text: "Finish portfolio",
-      isCompleted: false
-    },
-    {
-      text: "Update resume",
-      isCompleted: false
+      text: "Finish website",
+      isCompleted: true
     },
     {
       text: "Upload javascript project",
+      isCompleted: true
+    },
+    {
+      text: "Put resume on website",
       isCompleted: false
     },
     {
-      text: "Finish website",
-      isCompleted: true
+      text: "Finish portfolio",
+      isCompleted: false
     }
   ]);
 
