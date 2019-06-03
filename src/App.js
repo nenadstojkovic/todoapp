@@ -50,6 +50,10 @@ function App() {
       isCompleted: true
     },
     {
+      text: "Finish another React JS project",
+      isCompleted: true
+    },
+    {
       text: "Put resume on website",
       isCompleted: false
     },
