@@ -55,6 +55,10 @@ function App() {
     },
     {
       text: "Put resume on website",
+      isCompleted: true
+    },
+    {
+      text: "Fix bugs on projects",
       isCompleted: false
     },
     {
